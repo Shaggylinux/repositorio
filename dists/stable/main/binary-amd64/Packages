@@ -1,0 +1,12 @@
+Package: nano
+Version: 8.1
+Architecture: all
+Maintainer: Shaggy <tu@email.com>
+Filename: pool/n/nano/nano_8.1_all.deb
+Size: 777008
+MD5sum: 7a4d85152f314324a274cabd5bdcef72
+SHA1: 0c24177146376238ea752e17a2d70744f512e0d4
+SHA256: 951c187e8b1815e727213f65ecac22044470c15798f35a0a33e7198f5de61649
+Description: Editor de texto por terminal
+Remplaces: nano
+
